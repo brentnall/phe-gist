@@ -1,6 +1,6 @@
 # GIST incidence and routes to diagnosis, England 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brentnall/gist-phe/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brentnall/phe-gist/master?filepath=analysis%2Fgist-phe-analysis.ipynb)
 
 Plots in R using a Jupyter notebook (see analysis).
 
